@@ -4,16 +4,32 @@
 
 Install the dependencies by running the following command:
 
+1. Using npm
+
 ```shell
 npm i
+```
+
+2. Using Yarn
+
+```shell
+yarn
 ```
 
 ### 2. Run server:
 
 To run the server, use the following command in the terminal:
 
+1. Using npm:
+
 ```shell
 npm run dev
+```
+
+2. Using yarn:
+
+```shell
+yarn dev
 ```
 
 After running the command, the server starts up on the port: `5000`
